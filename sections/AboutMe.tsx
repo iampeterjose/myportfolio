@@ -13,7 +13,7 @@ const AboutMe = () => {
           Passionate about learning new frameworks, collaborating with creative teams, and making tech accessible for everyone.
         </p>
         <p className="text-[#6B7280] dark:text-[#D1D5DB] mb-8">
-          <span className="font-semibold">Fun fact:</span> I can solve a Rubik's Cube in under a minute and I love hiking on weekends!
+          <span className="font-semibold">Fact:</span> When I'm not climbing ranks in mobile games, I'm climbing actual mountains on the weekends — digital battles by weekday, trailblazing by weekend!
         </p>
         <a
           href="../data/cv.pdf"

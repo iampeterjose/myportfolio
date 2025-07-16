@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <section id="hero" className="bg-[#F9FAFB] dark:bg-[#1F2937] text-[#111827] dark:text-[#F9FAFB] py-16 pt-24 text-center mt-16">
+    <section id="hero" className="bg-[#F9FAFB] dark:bg-[#1F2937] text-[#111827] dark:text-[#F9FAFB] py-16 pt-28 text-center">
       <div className="flex flex-col items-center justify-center">
         <img
           src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"
