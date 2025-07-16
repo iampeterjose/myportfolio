@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { FiMenu, FiX, FiMoon, FiSun } from "react-icons/fi";
 
 const sections = [
